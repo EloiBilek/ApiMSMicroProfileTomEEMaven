@@ -1,0 +1,257 @@
+24-Jun-2019 11:04:46.053 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version name:   Apache Tomcat (TomEE)/9.0.20 (8.0.0-M3)
+24-Jun-2019 11:04:46.054 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          May 3 2019 22:26:00 UTC
+24-Jun-2019 11:04:46.054 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version number: 9.0.20.0
+24-Jun-2019 11:04:46.054 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Linux
+24-Jun-2019 11:04:46.054 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Version:            4.4.0-66-generic
+24-Jun-2019 11:04:46.054 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+24-Jun-2019 11:04:46.054 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             /usr/lib/jvm/java-8-oracle/jre
+24-Jun-2019 11:04:46.054 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_201-b09
+24-Jun-2019 11:04:46.055 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Oracle Corporation
+24-Jun-2019 11:04:46.055 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         /home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee
+24-Jun-2019 11:04:46.055 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         /home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee
+24-Jun-2019 11:04:46.056 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/conf/logging.properties
+24-Jun-2019 11:04:46.056 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Jun-2019 11:04:46.057 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -javaagent:/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/lib/openejb-javaagent.jar
+24-Jun-2019 11:04:46.057 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+24-Jun-2019 11:04:46.057 INFORMAÇÕES [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+24-Jun-2019 11:04:46.057 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+24-Jun-2019 11:04:46.057 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+24-Jun-2019 11:04:46.057 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+24-Jun-2019 11:04:46.058 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+24-Jun-2019 11:04:46.058 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+24-Jun-2019 11:04:46.058 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.noshutdownhook=true
+24-Jun-2019 11:04:46.058 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+24-Jun-2019 11:04:46.058 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dignore.endorsed.dirs=
+24-Jun-2019 11:04:46.058 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee
+24-Jun-2019 11:04:46.062 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee
+24-Jun-2019 11:04:46.062 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/temp
+24-Jun-2019 11:04:46.062 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+24-Jun-2019 11:04:46.393 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8080"]
+24-Jun-2019 11:04:46.418 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["ajp-nio-8009"]
+24-Jun-2019 11:04:46.724 INFORMAÇÕES [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+24-Jun-2019 11:04:46.739 INFORMAÇÕES [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+24-Jun-2019 11:04:46.819 INFORMAÇÕES [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+24-Jun-2019 11:04:46.819 INFORMAÇÕES [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+24-Jun-2019 11:04:46.820 INFORMAÇÕES [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Mon Jun 24 11:04:46 BRT 2019
+24-Jun-2019 11:04:46.821 INFORMAÇÕES [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2018 (C) Apache OpenEJB Project, All Rights Reserved.
+24-Jun-2019 11:04:46.821 INFORMAÇÕES [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 8.0.0-M3
+24-Jun-2019 11:04:46.821 INFORMAÇÕES [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20190523
+24-Jun-2019 11:04:46.822 INFORMAÇÕES [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 12:13
+24-Jun-2019 11:04:46.822 INFORMAÇÕES [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+24-Jun-2019 11:04:46.822 INFORMAÇÕES [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = /home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee
+24-Jun-2019 11:04:46.823 INFORMAÇÕES [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = /home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee
+24-Jun-2019 11:04:46.824 INFORMAÇÕES [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@60dcc9fe
+24-Jun-2019 11:04:46.827 INFORMAÇÕES [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+24-Jun-2019 11:04:46.865 INFORMAÇÕES [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is '/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/conf/tomee.xml'
+24-Jun-2019 11:04:46.915 INFORMAÇÕES [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+24-Jun-2019 11:04:46.917 INFORMAÇÕES [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+24-Jun-2019 11:04:46.920 INFORMAÇÕES [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+24-Jun-2019 11:04:46.920 INFORMAÇÕES [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+24-Jun-2019 11:04:46.922 INFORMAÇÕES [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+24-Jun-2019 11:04:46.970 INFORMAÇÕES [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+24-Jun-2019 11:04:47.059 INFORMAÇÕES [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+24-Jun-2019 11:04:47.175 INFORMAÇÕES [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+24-Jun-2019 11:04:47.175 INFORMAÇÕES [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+24-Jun-2019 11:04:47.175 INFORMAÇÕES [main] org.apache.openejb.server.SimpleServiceManager.start -------
+24-Jun-2019 11:04:47.176 INFORMAÇÕES [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+24-Jun-2019 11:04:47.176 INFORMAÇÕES [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.noshutdownhook=true'
+24-Jun-2019 11:04:47.177 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server initialization in [1.316] milliseconds
+24-Jun-2019 11:04:47.199 INFORMAÇÕES [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+24-Jun-2019 11:04:47.199 INFORMAÇÕES [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+24-Jun-2019 11:04:47.214 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting service [Catalina]
+24-Jun-2019 11:04:47.214 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet engine: [Apache Tomcat (TomEE)/9.0.20 (8.0.0-M3)]
+24-Jun-2019 11:04:47.226 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application archive [/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/webapps/ApiMSMicroProfileTomEEMaven.war]
+24-Jun-2019 11:04:47.233 INFORMAÇÕES [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /ApiMSMicroProfileTomEEMaven
+24-Jun-2019 11:04:47.236 INFORMAÇÕES [main] org.apache.openejb.util.JarExtractor.extract Extracting jar: /home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/webapps/ApiMSMicroProfileTomEEMaven.war
+24-Jun-2019 11:04:47.335 INFORMAÇÕES [main] org.apache.openejb.util.JarExtractor.extract Extracted path: /home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/webapps/ApiMSMicroProfileTomEEMaven
+24-Jun-2019 11:04:47.336 INFORMAÇÕES [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+24-Jun-2019 11:04:47.592 INFORMAÇÕES [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: /home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/webapps/ApiMSMicroProfileTomEEMaven
+24-Jun-2019 11:04:47.747 INFORMAÇÕES [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb ColorRepository: EjbDeployment(deployment-id=ColorRepository)
+24-Jun-2019 11:04:47.747 INFORMAÇÕES [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb VehicleService: EjbDeployment(deployment-id=VehicleService)
+24-Jun-2019 11:04:47.748 INFORMAÇÕES [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb ColorService: EjbDeployment(deployment-id=ColorService)
+24-Jun-2019 11:04:47.748 INFORMAÇÕES [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb VehicleRepository: EjbDeployment(deployment-id=VehicleRepository)
+24-Jun-2019 11:04:47.753 INFORMAÇÕES [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Stateless Container, type=Container, provider-id=Default Stateless Container)
+24-Jun-2019 11:04:47.754 INFORMAÇÕES [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean ColorRepository: Container(type=STATELESS, id=Default Stateless Container)
+24-Jun-2019 11:04:47.754 INFORMAÇÕES [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Stateless Container)
+24-Jun-2019 11:04:47.769 INFORMAÇÕES [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+24-Jun-2019 11:04:47.769 INFORMAÇÕES [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean ApiMSMicroProfileTomEEMaven.Comp1611832218: Container(type=MANAGED, id=Default Managed Container)
+24-Jun-2019 11:04:47.770 INFORMAÇÕES [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Managed Container)
+24-Jun-2019 11:04:47.785 INFORMAÇÕES [main] org.apache.openejb.core.managed.SimplePassivater.init Using directory /home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/temp for stateful session passivation
+24-Jun-2019 11:04:47.870 INFORMAÇÕES [main] org.apache.openejb.config.OutputGeneratedDescriptors.writeEjbJar Dumping Generated ejb-jar.xml to: /home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/temp/ejb-jar-7493493666333947246ApiMSMicroProfileTomEEMaven.xml
+24-Jun-2019 11:04:48.023 INFORMAÇÕES [main] org.apache.openejb.config.OutputGeneratedDescriptors.writeOpenejbJar Dumping Generated openejb-jar.xml to: /home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/temp/openejb-jar-3724843455745656541ApiMSMicroProfileTomEEMaven.xml
+24-Jun-2019 11:04:48.050 GRAVE [main] org.apache.openejb.config.ReportValidationResults.logResults FAIL ... ColorRepository:	Missing required persistence.xml for @PersistenceContext ref "em" to unit "restapi_PU"
+24-Jun-2019 11:04:48.050 GRAVE [main] org.apache.openejb.config.ReportValidationResults.logResults FAIL ... VehicleService:	Missing required persistence.xml for @PersistenceContext ref "em" to unit "restapi_PU"
+24-Jun-2019 11:04:48.051 GRAVE [main] org.apache.openejb.config.ReportValidationResults.logResults FAIL ... ColorService:	Missing required persistence.xml for @PersistenceContext ref "em" to unit "restapi_PU"
+24-Jun-2019 11:04:48.052 GRAVE [main] org.apache.openejb.config.ReportValidationResults.logResults FAIL ... VehicleRepository:	Missing required persistence.xml for @PersistenceContext ref "em" to unit "restapi_PU"
+24-Jun-2019 11:04:48.053 GRAVE [main] org.apache.openejb.config.ReportValidationResults.logResults FAIL ... ApiMSMicroProfileTomEEMaven:	Missing required persistence.xml for @PersistenceContext ref "em" to unit "restapi_PU"
+24-Jun-2019 11:04:48.054 GRAVE [main] org.apache.openejb.config.ReportValidationResults.logResults Invalid EjbModule(name=ApiMSMicroProfileTomEEMaven, path=/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/webapps/ApiMSMicroProfileTomEEMaven)
+24-Jun-2019 11:04:48.055 GRAVE [main] org.apache.openejb.config.ReportValidationResults.logResults FAIL ... ApiMSMicroProfileTomEEMaven:	Missing required persistence.xml for @PersistenceContext ref "em" to unit "restapi_PU"
+24-Jun-2019 11:04:48.058 GRAVE [main] org.apache.openejb.config.ReportValidationResults.logResults Invalid WebModule(name=ApiMSMicroProfileTomEEMaven, path=/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/webapps/ApiMSMicroProfileTomEEMaven)
+24-Jun-2019 11:04:48.059 INFORMAÇÕES [main] org.apache.openejb.config.ReportValidationResults.deploy Set the 'openejb.validation.output.level' system property to VERBOSE for increased validation details.
+24-Jun-2019 11:04:48.061 GRAVE [main] org.apache.tomee.catalina.TomcatWebAppBuilder.startInternal Unable to deploy collapsed ear in war StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ApiMSMicroProfileTomEEMaven]
+	org.apache.openejb.config.ValidationFailedException: Module failed validation. AppModule(name=ApiMSMicroProfileTomEEMaven)
+		at org.apache.openejb.config.ReportValidationResults.deploy(ReportValidationResults.java:88)
+		at org.apache.openejb.config.AppInfoBuilder.build(AppInfoBuilder.java:327)
+		at org.apache.openejb.config.ConfigurationFactory.configureApplication(ConfigurationFactory.java:1036)
+		at org.apache.tomee.catalina.TomcatWebAppBuilder.startInternal(TomcatWebAppBuilder.java:1286)
+		at org.apache.tomee.catalina.TomcatWebAppBuilder.configureStart(TomcatWebAppBuilder.java:1130)
+		at org.apache.tomee.catalina.GlobalListenerSupport.lifecycleEvent(GlobalListenerSupport.java:134)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5048)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:713)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:978)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1849)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:112)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:773)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:427)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1576)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:309)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:929)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:932)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:633)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:344)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:475)
+24-Jun-2019 11:04:48.065 GRAVE [main] sun.reflect.NativeMethodAccessorImpl.invoke Error destroying child
+	org.apache.catalina.LifecycleException: An invalid Lifecycle transition was attempted ([before_destroy]) for component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ApiMSMicroProfileTomEEMaven]] in state [STARTING_PREP]
+		at org.apache.catalina.util.LifecycleBase.invalidTransition(LifecycleBase.java:430)
+		at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:316)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:814)
+		at org.apache.tomee.catalina.TomcatWebAppBuilder.undeploy(TomcatWebAppBuilder.java:1656)
+		at org.apache.tomee.catalina.TomcatWebAppBuilder.undeploy(TomcatWebAppBuilder.java:1636)
+		at org.apache.tomee.catalina.TomcatWebAppBuilder.startInternal(TomcatWebAppBuilder.java:1317)
+		at org.apache.tomee.catalina.TomcatWebAppBuilder.configureStart(TomcatWebAppBuilder.java:1130)
+		at org.apache.tomee.catalina.GlobalListenerSupport.lifecycleEvent(GlobalListenerSupport.java:134)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5048)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:713)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:978)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1849)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:112)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:773)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:427)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1576)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:309)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:929)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:932)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:633)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:344)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:475)
+24-Jun-2019 11:04:48.068 GRAVE [main] sun.reflect.NativeMethodAccessorImpl.invoke Error deploying web application archive [/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/webapps/ApiMSMicroProfileTomEEMaven.war]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:716)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:978)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1849)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:112)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:773)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:427)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1576)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:309)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:929)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:932)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:633)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:344)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:475)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ApiMSMicroProfileTomEEMaven]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:713)
+		... 37 more
+	Caused by: org.apache.tomee.catalina.TomEERuntimeException: org.apache.openejb.config.ValidationFailedException: Module failed validation. AppModule(name=ApiMSMicroProfileTomEEMaven)
+		at org.apache.tomee.catalina.TomcatWebAppBuilder.startInternal(TomcatWebAppBuilder.java:1320)
+		at org.apache.tomee.catalina.TomcatWebAppBuilder.configureStart(TomcatWebAppBuilder.java:1130)
+		at org.apache.tomee.catalina.GlobalListenerSupport.lifecycleEvent(GlobalListenerSupport.java:134)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5048)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 38 more
+	Caused by: org.apache.openejb.config.ValidationFailedException: Module failed validation. AppModule(name=ApiMSMicroProfileTomEEMaven)
+		at org.apache.openejb.config.ReportValidationResults.deploy(ReportValidationResults.java:88)
+		at org.apache.openejb.config.AppInfoBuilder.build(AppInfoBuilder.java:327)
+		at org.apache.openejb.config.ConfigurationFactory.configureApplication(ConfigurationFactory.java:1036)
+		at org.apache.tomee.catalina.TomcatWebAppBuilder.startInternal(TomcatWebAppBuilder.java:1286)
+		... 43 more
+24-Jun-2019 11:04:48.071 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application archive [/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/target/.distribution/apache-tomee/webapps/ApiMSMicroProfileTomEEMaven.war] has finished in [845] ms
+24-Jun-2019 11:04:48.091 INFORMAÇÕES [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesRmiTargets] to [true] as the property does not exist.
+24-Jun-2019 11:04:48.091 INFORMAÇÕES [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesObjectStreamClassCaches] to [true] as the property does not exist.
+24-Jun-2019 11:04:48.091 INFORMAÇÕES [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesObjectStreamClassCaches] to [true] as the property does not exist.
+24-Jun-2019 11:04:48.092 INFORMAÇÕES [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesThreadLocals] to [true] as the property does not exist.
+24-Jun-2019 11:04:48.108 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["http-nio-8080"]
+24-Jun-2019 11:04:48.114 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["ajp-nio-8009"]
+24-Jun-2019 11:04:48.116 INFORMAÇÕES [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in [939] milliseconds

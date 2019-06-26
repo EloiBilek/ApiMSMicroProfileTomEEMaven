@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<openejb-jar xmlns="http://www.openejb.org/openejb-jar/1.1">
+    <properties></properties>
+    <ejb-deployment container-id="Default Stateless Container" deployment-id="ColorRepository" ejb-name="ColorRepository"/>
+    <ejb-deployment container-id="Default Stateless Container" deployment-id="VehicleService" ejb-name="VehicleService"/>
+    <ejb-deployment container-id="Default Stateless Container" deployment-id="ColorService" ejb-name="ColorService"/>
+    <ejb-deployment container-id="Default Stateless Container" deployment-id="VehicleRepository" ejb-name="VehicleRepository"/>
+    <ejb-deployment container-id="Default Managed Container" deployment-id="ApiMSMicroProfileTomEEMaven.Comp1611832218" ejb-name="ApiMSMicroProfileTomEEMaven.Comp"/>
+</openejb-jar>

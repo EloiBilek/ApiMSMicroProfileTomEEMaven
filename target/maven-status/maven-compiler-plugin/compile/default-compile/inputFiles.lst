@@ -1,0 +1,17 @@
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/model/repository/IColorRepository.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/model/repository/IVehicleRepository.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/service/impl/ColorService.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/controller/VehicleController.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/service/IColorService.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/controller/ColorController.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/service/IVehicleService.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/common/AbstractRepository.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/config/ApplicationConfig.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/model/entity/Vehicle.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/common/IOperations.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/service/impl/VehicleService.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/model/repository/impl/VehicleRepository.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/common/AbstractService.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/model/entity/Color.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/config/H2StartConsole.java
+/home/eloi/Projetos/Java/ApiMSMicroProfileTomEEGradle/src/main/java/com/apimsmicroprofiletomeemaven/model/repository/impl/ColorRepository.java
