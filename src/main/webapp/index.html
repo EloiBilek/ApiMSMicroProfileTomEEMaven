@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Vehicle Registration CRUD</title>
+<!-- <link rel="stylesheet" href="css/styles.css" />  -->
+<style>
+.thumb {
+	height: 75px;
+	border: 1px solid #000;
+	margin: 10px 5px 0 0;
+}
+</style>
+</head>
+<body>
+	<section
+		style="padding-top: 1px; padding-left: 20%; padding-bottom: 5%">
+		<h1>Vehicle Registration</h1>
+		<div id="registration-form" style="width: 60%">
+			<form id="registrationForm">
+				<fieldset>
+					<p>
+						<input id="id" name="id" type="hidden" />
+					</p>
+					<p>
+						<label for="plate">Plate</label> <input id="plate" name="plate"
+							type="text" required />
+					</p>
+					<p>
+						<label for="modelYear">Model Year</label> <input id="modelYear"
+							name="modelYear" type="number" required />
+					</p>
+					<p>
+						<label for="manufactureYear">Manufacture Year</label> <input
+							id="manufactureYear" name="manufactureYear" type="number"
+							required />
+					</p>
+					<p>
+						<span> <label for="active">Active</label> <input
+							type="checkbox" id="active" name="active" />
+						</span>
+					</p>
+					<p>
+						<span> <label for="color">Colors</label> <select id="color"
+							name="color" required>
+								<option selected disabled>Select Color</option>
+						</select>
+						</span>
+					</p>
+					<p>
+						<label for="updatedIn">Updated In</label> <input id="updatedIn"
+							name="updatedIn" type="text" disabled />
+					</p>
+					<p>
+						<button id="btnSaveVehicle">Submit</button>
+						<button id="btnNewVehicle">New Vehicle</button>
+					</p>
+				</fieldset>
+			</form>
+		</div>
+		<div id="grid-vehicles" style="width: 60%">
+			<fieldset id="vehicleFieldSet"></fieldset>
+		</div>
+	</section>
+	<script src="js/jquery-3.4.1.min.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>

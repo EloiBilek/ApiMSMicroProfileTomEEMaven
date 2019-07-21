@@ -28,7 +28,7 @@ import com.apimsmicroprofiletomeemaven.service.IVehicleService;
  *
  */
 
-@Path("/veiculos")
+@Path("/vehicles")
 @ApplicationScoped
 public class VehicleController {
 
