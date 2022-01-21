@@ -17,7 +17,7 @@
 		<version.microprofile>3.0</version.microprofile>
 		<tomee.api.version>8.0-1</tomee.api.version>
 		<tomee.version>8.0.0-M3</tomee.version>
-		<h2.version>1.4.199</h2.version>
+		<h2.version>2.1.210</h2.version>
 		<eclipse.link.version>2.7.4</eclipse.link.version>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
